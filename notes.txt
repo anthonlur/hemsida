@@ -1,0 +1,8 @@
+
+
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+font-family: 'Lora', serif;
+
+//Colors
+https://coolors.co/201e1f-ff4000-faaa8d-feefdd-50b2c0
