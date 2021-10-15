@@ -13,6 +13,8 @@ app.use(express.static(path.join(__dirname, '/public')));
 //Routes
 const index = require('./routes/index');
 
+app.use(index);
+
 //View enigne pug
 app.set('view engine', 'pug');
 
